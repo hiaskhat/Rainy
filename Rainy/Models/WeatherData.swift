@@ -14,6 +14,8 @@ struct WeatherData: Codable {
     let visibility: Int
 }
 
+// Main and Weather data types because of JSON struct (see JSON format coming)
+
 struct Main: Codable {
     let temp: Double
 }

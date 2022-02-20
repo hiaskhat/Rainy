@@ -8,6 +8,8 @@
 import UIKit
 import CoreLocation
 
+//Don't forget about privacy (info plist) when using user's location
+
 class WeatherViewController: UIViewController {
     
     @IBOutlet weak var conditionImageView: UIImageView!
