@@ -11,4 +11,4 @@ URLSession
 Parsing JSON  
   
     
-    ![screen-recording](https://github.com/hiaskhat/Rainy/blob/master/screenrecord.gif)
+    ![screen-recording](screenrecord.gif)
