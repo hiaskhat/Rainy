@@ -8,4 +8,7 @@ The main points while creating the app:
 MVC and Delegate design patterns  
 CoreLocation framework  
 URLSession  
-Parsing JSON 
+Parsing JSON  
+  
+    
+    ![screen-recording](https://github.com/hiaskhat/Rainy/blob/master/screenrecord.gif)
